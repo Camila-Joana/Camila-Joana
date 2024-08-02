@@ -12,5 +12,5 @@ Meu nome é Camila
 
 @User123
 
-![descrição do GIF](https://tenor.com/bUmYB.gif)
+![](https://tenor.com/bUmYB.gif)
 -->
