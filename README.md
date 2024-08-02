@@ -12,4 +12,4 @@ Meu nome é Camila
 
 @User123
 
-![](https://tenor.com/pt-BR/view/coelho-comunista-gif-6872429085570706555)
+![](https://tenor.com/pt-BR/view/commie-sheep-minecraft-minecraft-sheep-commie-sheep-gif-19534264)
