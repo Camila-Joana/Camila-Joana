@@ -1,4 +1,4 @@
-***Boas vindas ao meu perfil**
+**Boas vindas ao meu perfil**
 
 Meu nome é Camila
 
@@ -6,13 +6,13 @@ Meu nome é Camila
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-***Você pode entrar em contato comigo***
+**Você pode entrar em contato comigo***
 
 00001120545134sp@al.educacao.sp.gov.br
 
 @User123
 
-![]( **Boas vindas ao meu perfil***
+![]( **Boas vindas ao meu perfil**
 
 Meu nome é Camila
 
@@ -20,12 +20,12 @@ Meu nome é Camila
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+**Você pode entrar em contato comigo**
 
 00001120545134sp@al.educacao.sp.gov.br
 
 @User123
 
-![](https://tenor.com/view/345cat-gif-25788679)
+![](https://tenor.com/pt-BR/view/coelho-comunista-gif-6872429085570706555)
 
 -->
